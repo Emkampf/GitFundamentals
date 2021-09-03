@@ -1,4 +1,4 @@
-# _git init_
+# _Git Init_
 
 The `git init` command is used to create an empty git repository.
 Once inside a git repository, you can start using commands such as [status](./Status.md),

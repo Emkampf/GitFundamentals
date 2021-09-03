@@ -1,4 +1,4 @@
-# _git config_
+# _Git Config_
 
 When first setting up git, you'll need to work with the git config commands in order to set up your identity. For example, your identity can be set up with commands such as :
 
